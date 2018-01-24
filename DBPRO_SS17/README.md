@@ -1,4 +1,4 @@
-<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest">!!!!!
+<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> Hallo
 # Apache Flink Tutorial
 ## Frequent items mining (FIM)
 
