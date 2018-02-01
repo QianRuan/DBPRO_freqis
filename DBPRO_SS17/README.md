@@ -78,4 +78,4 @@ Steps for processing OnlineRetail data:
   - Map transaction items into integers
   - Mine frequent items
   - Map back items
-<div class="page-break"></div>
+\pagebreak
