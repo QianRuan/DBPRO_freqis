@@ -1,4 +1,4 @@
-<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> llll
+<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> 
 
 Apache Spark on Docker!!!!!!~~~~
 ==========
