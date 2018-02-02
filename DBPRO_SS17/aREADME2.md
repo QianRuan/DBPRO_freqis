@@ -1,4 +1,4 @@
-<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> Hallo from Qian!!!!
+<img src="https://readthedocs.org/projects/samuroi/badge/?version=latest"> 
 
 Apache Spark on Docker!!!!!!~~~~
 ==========
